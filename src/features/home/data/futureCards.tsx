@@ -1,5 +1,5 @@
 // ...existing code...
-import loudspeaker from '@assets/icons/ic-loudSpeaker.svg'
+import loudspeaker from '@assets/icons/ic-loudspeaker.svg'
 import techPeople from '@assets/icons/ic-techPeopel.svg'
 
 export type FutureCard = {

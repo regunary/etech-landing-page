@@ -2,10 +2,10 @@
 import React from 'react'
 import SolutionLayout from './SolutionLayout'
 
-// Imports Assets
+// Imports Assets for Solutions Section
 import HeroSvg from '@assets/cards/ai.svg?react'
 import EllipseSvg from '@assets/cards/ellipse.svg?react'
-import BlurYellowImage from '@assets/cards/BlurYellow.png'
+import BlurYellowImage from '@assets/cards/blurYellow.png'
 import AI4Image from '@assets/cards/ai4.png'
 import HeroSvg3 from '@assets/cards/ai3.png'
 

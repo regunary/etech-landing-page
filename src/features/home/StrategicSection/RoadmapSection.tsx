@@ -1,5 +1,5 @@
 import React from 'react'
-import iconMeg from '@assets/icons/ic-loudSpeaker.svg'
+import iconMeg from '@assets/icons/ic-loudspeaker.svg'
 
 const RoadmapSession = () => {
   return (

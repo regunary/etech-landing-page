@@ -1,6 +1,6 @@
 import React from 'react'
 // Import SVG dạng Component
-import IconMeg from '@assets/icons/ic-loudSpeaker.svg?react'
+import IconMeg from '@assets/icons/ic-loudspeaker.svg?react'
 import circle from '@assets/cards/blurGreen.png'
 import LogoEtechs from '@assets/logo-etechs-ETS.svg?react'
 
